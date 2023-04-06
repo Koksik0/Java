@@ -1,0 +1,14 @@
+
+*.bak
+
+
+logs/
+temp/
+
+
+config.ini
+config.json
+
+
+*.log
+*.csv
