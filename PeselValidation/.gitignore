@@ -12,3 +12,18 @@ config.json
 
 *.log
 *.csv
+
+
+.idea/
+
+
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
+out/
